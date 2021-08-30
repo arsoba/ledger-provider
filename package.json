@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@0x/subproviders": "5.0.4",
-    "web3-provider-engine": "15.0.4"
+    "web3-provider-engine": "16.0.1"
   },
   "devDependencies": {
     "@types/jest": "25.1.1",
